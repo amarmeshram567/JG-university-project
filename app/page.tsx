@@ -1,19 +1,19 @@
-import { Hero } from "@/pages/Hero";
-import Welcome from "@/pages/Welcome";
+import { Hero } from "@/sections/Hero";
+import Welcome from "@/sections/Welcome";
 import Navbar from "@/components/Navbar";
 import AdmissionPopup from "@/components/AdmissionPopup";
-import { Partners } from "@/pages/Partners";
-import { Programmes } from "@/pages/Programmes";
-import { WhyChoose } from "@/pages/WhyChoose";
-import Leaders from "@/pages/Leaders";
-import Faculty from "@/pages/Faculty";
-import Stats from "@/pages/Stats";
-import Campus from "@/pages/Campus";
-import Testimonials from "@/pages/Testimonials";
-import AdmissionCTA from "@/pages/AdmissionCTA";
-import Footer from "@/pages/Footer";
-import Strength from "@/pages/Strength";
-import Features from "@/pages/Features";
+import { Partners } from "@/sections/Partners";
+import { Programmes } from "@/sections/Programmes";
+import { WhyChoose } from "@/sections/WhyChoose";
+import Leaders from "@/sections/Leaders";
+import Faculty from "@/sections/Faculty";
+import Stats from "@/sections/Stats";
+import Campus from "@/sections/Campus";
+import Testimonials from "@/sections/Testimonials";
+import AdmissionCTA from "@/sections/AdmissionCTA";
+import Footer from "@/sections/Footer";
+import Strength from "@/sections/Strength";
+import Features from "@/sections/Features";
 
 export default function Home() {
   return (
